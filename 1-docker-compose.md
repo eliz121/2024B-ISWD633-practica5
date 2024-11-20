@@ -45,7 +45,8 @@ docker compose up -d <nombre servicio>
 ```
 docker compose ps
 ```
-![Contenedores](contenedoresComp.png)
+
+![Contenedores](img/contenedoresComp.png)
 
 ### Detener y eliminar los contenedores definidos en el archivo
 ```
